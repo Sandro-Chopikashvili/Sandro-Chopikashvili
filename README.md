@@ -10,4 +10,5 @@
   <img src="https://img.shields.io/badge/Statistics-0A0A0A?style=for-the-badge&logo=R&logoColor=white"/>
   <img src="https://img.shields.io/badge/Math-000000?style=for-the-badge&logo=latex&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn Badge"/>
 </p>
