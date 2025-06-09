@@ -13,5 +13,5 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Statistics-0A0A0A?style=for-the-badge&logo=R&logoColor=white"/>
   <img src="https://img.shields.io/badge/Math-000000?style=for-the-badge&logo=latex&logoColor=white"/>
-  ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=4DB33D)
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
