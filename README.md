@@ -15,4 +15,5 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Statistics-0A0A0A?style=for-the-badge&logo=R&logoColor=white"/>
   <img src="https://img.shields.io/badge/Math-000000?style=for-the-badge&logo=latex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
 </p>
